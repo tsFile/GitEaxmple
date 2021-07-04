@@ -9,3 +9,6 @@
 3. 기능3
 
 # Comment 기능 추가
+
+# Conflict 
+1. 좋아요
